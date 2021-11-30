@@ -1,23 +1,16 @@
 
 ## Welcome to my personal coding space 
 
-## Hello! You can call me Gê!
+## Hi My name is Pedro Fernandes, good to see you here! 🤓
 
  
-:computer: I'm a Full Stack Developer! But my :purple_heart: belongs to Back end
-
-:books: I’m currently learning some back end development skills.
-
-
 ## About me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/germanaetges/)](https://www.linkedin.com/in/germanaetges/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/germanaetges)](https://twitter.com/germanaetges)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrofdnn/)](https://www.linkedin.com/in/pedrofdnn/)
 
-teste
+
+I'm a Full-Stack Web developer :computer:, I'm currently in career transition and at this moment I completed a BootCamp where I learned several languages with good practices with good codes, I'm looking for new challenges and putting into practice everything I've learned.
 
 [Courses](https://www.labenu.com.br/) 👨🏼‍🏫 - Labenu => Web Full Stack development bootcamp, with more than a 1000 hours of learning and practising coding skills.
-
-#### Fun fact about me: I used to work as a bike courier just a few years ago :biking_woman:
 
 ## Languages
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
@@ -47,8 +40,11 @@ teste
 
 ## My GitHub Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofdnnetges&icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
- * *GitHub Stats* by [@anuraghzra](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofdnn&count_private=true&show_icons=true&theme=tokyonight)
+
+
+ 
+
 
 
 
