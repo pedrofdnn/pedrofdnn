@@ -10,7 +10,7 @@
 
 I'm a Full-Stack Web developer :computer:, I'm currently in career transition and at this moment I completed a BootCamp where I learned several languages with good practices with good codes, I'm looking for new challenges and putting into practice everything I've learned.
 
-[Courses](https://www.labenu.com.br/) 👨🏼‍🏫 - Labenu => Web Full Stack development bootcamp, with more than a 1000 hours of learning and practising coding skills.
+[Courses](https://www.labenu.com.br/) - Labenu => Web Full Stack development bootcamp, with more than a 1000 hours of learning and practising coding skills.
 
 ## Languages
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
